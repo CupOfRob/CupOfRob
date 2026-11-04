@@ -24,7 +24,10 @@
 
 ## 🎮 Eat my contributions
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CupOfRob/CupOfRob/output/pacman-contribution-graph.svg" alt="pacman contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CupOfRob/CupOfRob/output/pacman-contribution-graph-dark.svg" />
+    <img src="https://raw.githubusercontent.com/CupOfRob/CupOfRob/output/pacman-contribution-graph.svg" alt="pacman contribution graph" />
+  </picture>
 </p>
 
 ## 📫 Reach me
