@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Keanu 👋</h1>
-<p align="center">IT student who builds web apps, game mods,and small games.</p>
+<p align="center">IT student who builds web apps, game mods, and small games.</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=520&lines=Web+%26+Mobile+Developer;Terraria+tModLoader+Modder;Aspiring+Game+Dev" alt="typing" />
